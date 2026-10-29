@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-10-29T21:44:31",
+  "description": "Official HushFeed 0.79.0 bundle by SysAdminDoc (GPL-3.0), mirrored as a personal Morphe source. 141 patches total: 140 for TikTok 47.5.3 (com.zhiliaoapp.musically, global build), 95 of them also apply to PineDrama 47.5.3. Needs Morphe Manager 2.0.0 or newer. The .mpp is a patch bundle, not a TikTok APK.",
+  "download_url": "https://github.com/DangTruong96/truong-tiktok-patches/releases/download/tiktok-2026.10.29/patches-0.79.0.mpp",
+  "signature_download_url": "",
+  "version": "0.79.0"
+}
